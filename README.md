@@ -1,4 +1,7 @@
 # Overview
+![Clock](https://github.com/awilkin2/LTE-Clock/assets/152574032/2ea831e0-6879-4a9a-885b-9f26429cca4b)
+Fig 1: Display (location censored for privacy)
+
 This project is a portable clock with LTE capability. Using this LTE capability, the device gathers and displays time, timezone, date, weather, and location on an e-paper display. Using a 600mAh LiPo battery, a battery life of several days is achieved.
 
 ## Hardware
