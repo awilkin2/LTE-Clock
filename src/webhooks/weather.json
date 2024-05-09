@@ -1,0 +1,13 @@
+{
+    "name": "weather for weatherapi.com",
+    "event": "weather",
+    "url": "http://api.weatherapi.com/v1/current.json",
+    "requestType": "GET",
+    "noDefaults": true,
+    "rejectUnauthorized": true,
+    "query": {
+        "aqi": "no",
+        "key": "YOUR-API-KEY-HERE",
+        "q": "{{{PARTICLE_EVENT_VALUE}}}"
+    }
+}
